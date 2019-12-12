@@ -1,3 +1,6 @@
 [submodule "eu_aceito"]
 	path = eu_aceito
 	url = https://github.com/ericcleao/eu_aceito.git
+[submodule "c_piscine_shell_00"]
+	path = c_piscine_shell_00
+	url = https://github.com/ericcleao/c_piscine_shell_00.git

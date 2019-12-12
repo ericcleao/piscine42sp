@@ -1,3 +1,3 @@
 [submodule "eu_aceito"]
 	path = eu_aceito
-	url = vogsphere@vogsphere.42sp.org.br:intra/2019/activities/eu_aceito/ecerquei2
+	url = https://github.com/ericcleao/eu_aceito.git

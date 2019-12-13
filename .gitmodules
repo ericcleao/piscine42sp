@@ -4,3 +4,6 @@
 [submodule "c_piscine_shell_00"]
 	path = c_piscine_shell_00
 	url = https://github.com/ericcleao/c_piscine_shell_00.git
+[submodule "c_piscine_shell_01"]
+	path = c_piscine_shell_01
+	url = https://github.com/ericcleao/c_piscine_shell_01.git

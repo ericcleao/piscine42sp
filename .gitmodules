@@ -28,3 +28,6 @@
 [submodule "c_piscine_c_06"]
 	path = c_piscine_c_06
 	url = https://github.com/ericcleao/c_piscine_c_06.git
+[submodule "c_piscine_c_08"]
+	path = c_piscine_c_08
+	url = https://github.com/ericcleao/c_piscine_c_08.git
